@@ -51,8 +51,8 @@
 ![241152384-ee8511ec-3d61-42b6-b814-f2552a9c15d0](https://github.com/SivaMohan-cloud/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/121418870/1dbd72f9-5d78-4fd6-bd8f-74881c9b421b)
 
 
-### Name:
-### Register Number:
+### Name: SIVAMOHANASUNDARAM.V
+### Register Number: 212222230145
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
